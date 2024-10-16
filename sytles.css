@@ -1,0 +1,173 @@
+body{
+    
+    font-family: "Outfit", sans-serif;
+    font-size: 16px;
+    background-color: hsl(30, 54%, 90%);
+    color: hsl(30, 10%, 34%);
+
+}
+.serif {
+    font-family: "Young Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .title{
+    color: hsl(14, 45%, 36%);
+  }
+
+.flex{
+    width: 1440px;
+    height: 1955px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.container{
+    width: 736px;
+    height: 1710px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.hero{
+    margin: 40px;
+    
+}
+
+.hero img{
+    width: 656px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.hero-title{
+    font-size: 40px;
+}
+.p-time{
+    width: 656px;
+    height: 180px;
+    background-color: hsl(330, 100%, 98%);
+    margin: 0px 40px;
+    
+
+}
+.p-time-title{
+    color: hsl(332, 51%, 32%);
+    margin-left: 30px;
+    font-weight: 600;
+
+}
+
+.p-time-list{
+ margin-left: 10px;
+}
+
+.p-time-list-item{
+
+    font-weight: 400;
+    color:hsl(332, 51%, 32%);
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+
+.p-time-list-item p{
+    color:hsl(30, 10%, 34%) ;
+    padding: 0px;
+    margin: 0px;
+}
+
+.ingredient{
+    margin: 0px 40px;
+    
+}
+
+.ingredient-list{
+    color:hsl(14, 45%, 36%) ;
+    padding-left: 15px;
+}
+
+.ingredient-list-item{
+    padding-left: 30px;
+}
+.ingredient-list p{
+    color: hsl(30, 10%, 34%) ;
+}
+
+.instruction{
+    margin: 0px 40px ;
+
+}
+
+.instruction-list{
+    color:hsl(14, 45%, 36%);
+    font-weight: 600;
+    padding-left: 15px;
+}
+
+.instruction-list p{
+    padding-left: 30px;
+    color: hsl(30, 10%, 34%);
+    font-weight: 400;
+}
+.nutrition{
+    margin: 0px 40px;
+}
+
+.unique{
+    border-top: none;
+}
+
+.data{
+    color: hsl(14, 45%, 36%);
+    font-weight: 600;
+}
+
+hr{
+    width: 654px;
+    size: 1;
+    border-color: hsl(30, 10%, 34%);
+    margin: 5px 40px;
+}
+table{
+    width: 654px;
+    height: 184px;
+}
+
+table td{
+    padding-left: 30px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ddd;
+    border: none;
+  }
+  th, td {
+    text-align: left;
+    padding: 8px;
+
+
+  }
+  
+  tr {
+    border-top: 1px solid #ddd; /* Add line between rows */
+  }
+  
+  th {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+.attribution {
+     font-size: 11px; text-align: center;
+     }
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
