@@ -4,12 +4,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot.png)
 
 
 ### Links
 
-- Live Site URL: [Live site here](https://your-live-site-url.com)
+- Live Site URL: [Live site here](https://recipe-page-puce-xi.vercel.app/)
 
 ### Built with
 
